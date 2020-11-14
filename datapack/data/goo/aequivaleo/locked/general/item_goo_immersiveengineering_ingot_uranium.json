@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "immersiveengineering:ingot_uranium",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"immersiveengineering:ingot_uranium\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 36.0,
+      "type": "goo:metal"
+    },
+    {
+      "amount": 720.0,
+      "type": "goo:energetic"
+    }
+  ]
+}

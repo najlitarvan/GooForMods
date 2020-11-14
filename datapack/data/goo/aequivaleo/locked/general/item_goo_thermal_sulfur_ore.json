@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "thermal:sulfur_ore",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"thermal:sulfur_ore\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 1.0,
+      "type": "goo:vital"
+    },
+    {
+      "amount": 32.0,
+      "type": "goo:molten"
+    },
+    {
+      "amount": 8.0,
+      "type": "goo:energetic"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:logic_forbidden"
+    }
+  ]
+}

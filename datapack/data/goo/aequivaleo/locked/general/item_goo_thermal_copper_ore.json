@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "thermal:copper_ore",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"thermal:copper_ore\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 54.0,
+      "type": "goo:metal"
+    },
+    {
+      "amount": 18.0,
+      "type": "goo:logic"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:logic_forbidden"
+    }
+  ]
+}

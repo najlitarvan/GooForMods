@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "botania:black_mystical_flower",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"botania:black_mystical_flower\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 288.0,
+      "type": "goo:chromatic"
+    },
+    {
+      "amount": 144.0,
+      "type": "goo:floral"
+    },
+    {
+      "amount": 36.0,
+      "type": "goo:vital"
+    }
+  ]
+}

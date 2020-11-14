@@ -1,0 +1,19 @@
+{
+	"prefix":"immersiveengineering",
+	"prototypes":{
+	
+	},
+	"implementations":{
+		// Explicitly defined
+		
+		// From prototypes
+		"dust_saltpeter":"saltpeter",
+		"dust_sulfur":"sulfur",
+		"ingot_copper":"copper",
+		"ingot_aluminum":"aluminum",
+		"ingot_lead":"lead",
+		"ingot_silver":"silver",
+		"ingot_nickel":"nickel",
+		"ingot_uranium":"uranium",
+	}
+}

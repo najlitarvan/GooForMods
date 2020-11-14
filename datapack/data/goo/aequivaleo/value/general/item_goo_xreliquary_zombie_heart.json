@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "xreliquary:zombie_heart",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"xreliquary:zombie_heart\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 24.0,
+      "type": "goo:regal"
+    },
+    {
+      "amount": 12.0,
+      "type": "goo:metal"
+    },
+    {
+      "amount": 30.0,
+      "type": "goo:faunal"
+    },
+    {
+      "amount": 360.0,
+      "type": "goo:decay"
+    }
+  ]
+}

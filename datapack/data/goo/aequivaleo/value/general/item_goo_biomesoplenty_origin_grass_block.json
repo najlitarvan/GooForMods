@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "biomesoplenty:origin_grass_block",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"biomesoplenty:origin_grass_block\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 180.0,
+      "type": "goo:earthen"
+    },
+    {
+      "amount": 15.0,
+      "type": "goo:floral"
+    }
+  ]
+}

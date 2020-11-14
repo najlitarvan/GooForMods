@@ -1,0 +1,43 @@
+{
+	"prefix":"appliedenergistics2",
+	"prototypes":{
+	},
+	"implementations":{
+		// Explicitly defined
+		"quartz_ore":{
+			"crystal":2,
+			"earthen":30,
+			"logic":30,
+			"logic_forbidden":1
+		},
+		"charged_quartz_ore":{
+			"crystal":2,
+			"earthen":30,
+			"logic":30,
+			"energetic":6,
+			"logic_forbidden":1
+		},
+		"certus_quartz_crystal":{
+			"crystal":2,
+			"earthen":30,
+			"logic":30
+		},
+		"charged_certus_quartz_crystal":{
+			"crystal":2,
+			"earthen":30,
+			"logic":30,
+			"energetic":6
+		},
+		"sky_stone_block":{
+			"earthen":180,
+			"obsidian":10
+		},
+		"fluix_crystal":{ // Crafted using special AE2 in-world mechanic
+			"crystal":2,
+			"earthen":45,
+			"logic":22,
+			"energetic":3
+		},
+		// From prototypes
+	}
+}

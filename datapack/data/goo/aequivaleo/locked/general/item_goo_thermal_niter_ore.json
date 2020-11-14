@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "thermal:niter_ore",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"thermal:niter_ore\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 16.0,
+      "type": "goo:energetic"
+    },
+    {
+      "amount": 256.0,
+      "type": "goo:earthen"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:logic_forbidden"
+    }
+  ]
+}

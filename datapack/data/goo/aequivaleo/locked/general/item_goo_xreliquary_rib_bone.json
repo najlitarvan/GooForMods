@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "xreliquary:rib_bone",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"xreliquary:rib_bone\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 3600.0,
+      "type": "goo:chromatic"
+    },
+    {
+      "amount": 300.0,
+      "type": "goo:decay"
+    },
+    {
+      "amount": 150.0,
+      "type": "goo:faunal"
+    },
+    {
+      "amount": 15.0,
+      "type": "goo:vital"
+    }
+  ]
+}

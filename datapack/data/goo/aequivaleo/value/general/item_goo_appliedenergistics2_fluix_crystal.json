@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "appliedenergistics2:fluix_crystal",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"appliedenergistics2:fluix_crystal\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 2.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 45.0,
+      "type": "goo:earthen"
+    },
+    {
+      "amount": 22.0,
+      "type": "goo:logic"
+    },
+    {
+      "amount": 3.0,
+      "type": "goo:energetic"
+    }
+  ]
+}

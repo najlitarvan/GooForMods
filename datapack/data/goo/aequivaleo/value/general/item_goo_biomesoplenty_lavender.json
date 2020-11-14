@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "biomesoplenty:lavender",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"biomesoplenty:lavender\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 240.0,
+      "type": "goo:chromatic"
+    },
+    {
+      "amount": 5.0,
+      "type": "goo:floral"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:vital"
+    }
+  ]
+}

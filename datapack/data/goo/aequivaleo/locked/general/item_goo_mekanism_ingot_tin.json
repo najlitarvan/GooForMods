@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "mekanism:ingot_tin",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"mekanism:ingot_tin\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 54.0,
+      "type": "goo:metal"
+    },
+    {
+      "amount": 9.0,
+      "type": "goo:regal"
+    }
+  ]
+}

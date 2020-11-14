@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "biomesoplenty:mud_ball",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"biomesoplenty:mud_ball\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 45.0,
+      "type": "goo:aquatic"
+    },
+    {
+      "amount": 45.0,
+      "type": "goo:earthen"
+    }
+  ]
+}

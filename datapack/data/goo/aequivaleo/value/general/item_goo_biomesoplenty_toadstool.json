@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "biomesoplenty:toadstool",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"biomesoplenty:toadstool\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 15.0,
+      "type": "goo:fungal"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:vital"
+    }
+  ]
+}

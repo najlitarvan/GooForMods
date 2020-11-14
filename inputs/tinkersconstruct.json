@@ -1,0 +1,26 @@
+{
+	"prefix":"tconstruct",
+	"prototypes":{
+	
+	},
+	"implementations":{
+		// Explicitly defined
+		"cobalt_ingot":{
+			"aquatic":54,
+			"crystal":9,
+			"energetic":36,
+			"metal":288,
+			"weird":9,
+		},
+		"ardite_ingot":{
+			"crystal":9,
+			"energetic":36,
+			"metal":288,
+			"molten":54,
+			"weird":9,
+		},
+		
+		// From prototypes
+		"copper_ingot":"copper",
+	}
+}

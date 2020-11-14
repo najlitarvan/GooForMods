@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "xreliquary:catalyzing_gland",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"xreliquary:catalyzing_gland\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 10.0,
+      "type": "goo:weird"
+    },
+    {
+      "amount": 8.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 720.0,
+      "type": "goo:energetic"
+    }
+  ]
+}

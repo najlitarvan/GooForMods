@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "botania:magenta_double_flower",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"botania:magenta_double_flower\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 576.0,
+      "type": "goo:chromatic"
+    },
+    {
+      "amount": 288.0,
+      "type": "goo:floral"
+    },
+    {
+      "amount": 72.0,
+      "type": "goo:vital"
+    }
+  ]
+}

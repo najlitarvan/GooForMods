@@ -1,0 +1,37 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "thermal:cinnabar_ore",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"thermal:cinnabar_ore\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 5.0,
+      "type": "goo:logic"
+    },
+    {
+      "amount": 30.0,
+      "type": "goo:regal"
+    },
+    {
+      "amount": 60.0,
+      "type": "goo:decay"
+    },
+    {
+      "amount": 1.0,
+      "type": "goo:logic_forbidden"
+    }
+  ]
+}

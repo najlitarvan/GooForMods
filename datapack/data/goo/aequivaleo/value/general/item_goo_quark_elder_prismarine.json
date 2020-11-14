@@ -1,0 +1,33 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "quark:elder_prismarine",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"quark:elder_prismarine\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 48.0,
+      "type": "goo:aquatic"
+    },
+    {
+      "amount": 4.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 5.0,
+      "type": "goo:weird"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "tconstruct:cobalt_ingot",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"tconstruct:cobalt_ingot\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 54.0,
+      "type": "goo:aquatic"
+    },
+    {
+      "amount": 9.0,
+      "type": "goo:crystal"
+    },
+    {
+      "amount": 36.0,
+      "type": "goo:energetic"
+    },
+    {
+      "amount": 288.0,
+      "type": "goo:metal"
+    },
+    {
+      "amount": 9.0,
+      "type": "goo:weird"
+    }
+  ]
+}

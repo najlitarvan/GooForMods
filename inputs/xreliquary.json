@@ -1,0 +1,53 @@
+{
+	"prefix":"xreliquary",
+	"prototypes":{
+	
+	},
+	"implementations":{
+		// Explicitly defined
+		"rib_bone":{
+			"chromatic":3600,
+			"decay":300,
+			"faunal":150,
+			"vital":15,
+		},
+		"withered_rib":{
+			"decay":1200,
+			"faunal":300,
+		},
+		"chelicerae":{
+			"faunal":90,
+		},
+		"chelicerae":{
+			"faunal":90,
+		},
+		"catalyzing_gland":{
+			"weird":10,
+			"crystal":8,
+			"energetic":720,
+		},
+		"slime_pearl":{
+			"slime":360,
+		},
+		"zombie_heart":{
+			"regal":24,
+			"metal":12,
+			"faunal":30,
+			"decay":360,
+		},
+		"molten_core":{
+			"slime":180,
+			"molten":420,
+		},
+		"eye_of_the_storm":{
+			"energetic":1200
+		},
+		"frozen_core":{
+			"snow":75,
+		},
+		"nebulous_heart":{
+			"weird":90,
+		},
+		// From prototypes
+	}
+}

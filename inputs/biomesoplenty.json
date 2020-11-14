@@ -1,0 +1,168 @@
+{
+	"prefix":"biomesoplenty",
+	"implementations":{
+		// Explicitly defined
+		"magic_sapling":{
+			"floral":394,
+			"vital":15,
+			"weird":1,
+		},
+		"magic_leaves":{
+			"floral":5,
+			"weird":1,
+		},
+		"magic_log":{
+			"floral":128,
+			"vital":15,
+			"weird":1,
+		},
+		"stripped_magic_log":{
+			"floral":128,
+			"vital":15,
+			"weird":1,
+		},
+		
+		"umbran_sapling":{
+			"floral":394,
+			"vital":15,
+			"obsidian":1,
+		},
+		"umbran_leaves":{
+			"floral":5,
+			"obsidian":1,
+		},
+		"umbran_log":{
+			"floral":128,
+			"vital":15,
+			"obsidian":1,
+		},
+		"stripped_umbran_log":{
+			"floral":128,
+			"vital":15,
+			"obsidian":1,
+		},
+		
+		"dead_sapling":{
+			"floral":394,
+			"decay":16,
+		},
+		"dead_leaves":{
+			"floral":5,
+			"decay":1,
+		},
+		"dead_log":{
+			"floral":128,
+			"decay":16,
+		},
+		"stripped_dead_log":{
+			"floral":128,
+			"decay":16,
+		},
+		
+		"hellbark_sapling":{
+			"floral":394,
+			"molten":16,
+		},
+		"hellbark_leaves":{
+			"floral":5,
+			"molten":1,
+		},
+		"hellbark_log":{
+			"floral":128,
+			"molten":16,
+		},
+		"stripped_hellbark_log":{
+			"floral":128,
+			"molten":16,
+		},
+		
+		"mud_ball":{
+			"aquatic":45,
+			"earthen":45,
+		},
+		
+		"toadstool":{
+			"fungal":15,
+			"vital":1
+		},
+		"toadstool_block":{
+			"fungal":5,
+		},
+		
+		"glowshroom":{
+			"fungal":15,
+			"weird":1
+		},
+		"glowshroom_block":{
+			"fungal":5,
+		},
+		
+		// From prototypes
+		"white_sand":"sand",
+		"black_sand":"sand",
+		
+		"origin_grass_block":"grass_block",
+		
+		"origin_leaves":"leaves",
+		"flowering_oak_leaves":"leaves",
+		"rainbow_birch_leaves":"leaves",
+		"yellow_autumn_leaves":"leaves",
+		"orange_autumn_leaves":"leaves",
+		"maple_leaves":"leaves",
+		"fir_leaves":"leaves",
+		
+		"origin_sapling":"sapling",
+		"flowering_oak_sapling":"sapling",
+		"rainbow_birch_sapling":"sapling",
+		"yellow_autumn_sapling":"sapling",
+		"orange_autumn_sapling":"sapling",
+		"maple_sapling":"sapling",
+		"fir_sapling":"sapling",
+		"redwood_sapling":"sapling",
+		"white_cherry_sapling":"sapling",
+		"pink_cherry_sapling":"sapling",
+		"mahogany_sapling":"sapling",
+		"jacaranda_sapling":"sapling",
+		"palm_sapling":"sapling",
+		"willow_sapling":"sapling",
+		
+		"fir_log":"log",
+		"stripped_fir_log":"log",
+		"redwood_log":"log",
+		"stripped_redwood_log":"log",
+		"cherry_log":"log",
+		"stripped_cherry_log":"log",
+		"mahogany_log":"log",
+		"stripped_mahogany_log":"log",
+		"jacaranda_log":"log",
+		"stripped_jacaranda_log":"log",
+		"palm_log":"log",
+		"stripped_palm_log":"log",
+		"willow_log":"log",
+		"stripped_willow_log":"log",
+		
+		"rose":"flower",
+		"violet":"flower",
+		"lavender":"flower",
+		"wildflower":"flower",
+		"orange_cosmos":"flower",
+		"pink_daffodil":"flower",
+		"pink_hibiscus":"flower",
+		"glowflower":"flower",
+		"wilted_lily":"flower",
+		"burning_blossom":"flower",
+		
+		"blue_hydrangea":"tall_flower",
+		"goldenrod":"tall_flower",
+		
+		"willow_vine":"plant",
+		"sprout":"plant",
+		"bush":"plant",
+		"dune_grass":"plant",
+		"desert_grass":"plant",
+		"dead_grass":"plant",
+		"cattail":"plant",
+		
+		"tall_wheat":"tall_plant",
+	}
+}

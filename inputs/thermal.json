@@ -1,0 +1,38 @@
+{
+	"prefix":"thermal",
+	"prototypes":{
+	
+	},
+	"implementations":{
+		// Explicitly defined
+		"basalz_rod":{
+			"decay":120,
+		},
+		"blitz_rod":{
+			"energetic":120,
+		},
+		"blizz_rod":{
+			"snow":120,
+		},
+		// From prototypes
+		"salt":"salt",
+		"copper_ingot":"copper",
+		"copper_ore":"copper_ore",
+		"lead_ingot":"lead",
+		"lead_ore":"lead_ore",
+		"silver_ingot":"silver",
+		"silver_ore":"silver_ore",
+		"tin_ingot":"tin",
+		"tin_ore":"tin_ore",
+		"nickel_ingot":"nickel",
+		"nickel_ore":"nickel_ore",
+		"apatite":"apatite",
+		"apatite_ore":"apatite_ore",
+		"sulfur":"sulfur",
+		"sulfur_ore":"sulfur_ore",
+		"niter":"niter",
+		"niter_ore":"niter_ore",
+		"cinnabar":"cinnabar",
+		"cinnabar_ore":"cinnabar_ore",
+	}
+}

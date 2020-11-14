@@ -1,0 +1,19 @@
+{
+	"prefix":"mekanism",
+	"prototypes":{
+	
+	},
+	"implementations":{
+		// Explicitly defined
+		"ingot_osmium":{
+			"metal":144,
+		},
+		
+		// From prototypes
+		"salt":"salt",
+		"ingot_copper":"copper",
+		"ingot_tin":"tin",
+		"ingot_lead":"lead",
+		"ingot_uranium":"uranium",
+	}
+}
