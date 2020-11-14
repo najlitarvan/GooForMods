@@ -1,0 +1,29 @@
+{
+  "mode": "ADDITIVE",
+  "targets": [
+    {
+      "data": {
+        "item": "immersiveengineering:dust_saltpeter",
+        "count": 1.0
+      },
+      "type": "aequivaleo:item"
+    },
+    {
+      "data": {
+        "stack": "{id:\"immersiveengineering:dust_saltpeter\",Count:1b}",
+        "count": 1.0
+      },
+      "type": "aequivaleo:itemstack"
+    }
+  ],
+  "compounds": [
+    {
+      "amount": 8.0,
+      "type": "goo:energetic"
+    },
+    {
+      "amount": 128.0,
+      "type": "goo:earthen"
+    }
+  ]
+}
