@@ -1,0 +1,142 @@
+{
+	"prefix":"wyrmroost",
+	"prototypes":{
+	
+	},
+	"implementations":{
+        // Explicitly defined
+        // H1 one full unit of hunger S1 one full unit of saturation
+		"desert_wyrm":{
+            "vital":2,
+            "faunal":20,
+            // it's a living being in an inventory
+        },
+        "cooked_desertwyrm":{
+            "vital":1,
+            "faunal":20,
+            // it's a cooked being in an inventory H5 S10
+        },
+        "coin_dragon":{
+            "vital":5,
+            "faunal":15,
+            "regal":8,
+            "metal":4,
+                        // it's a living being in an inventory (dragon with a golden nugget)
+        },
+        "blue_geode":{
+            "crystal":200,
+            "weird":15,
+            //cheaper diamond like item with some magical property, overworld
+        },
+        "blue_geode_ore":{
+            "crystal":200,
+            "weird":15,
+            //cheaper diamond like item with some magical property, overworld
+        },
+        "red_geode":{
+            "crystal":200,
+            "weird":15,
+            "decay":5,
+            "molten":5,
+            // stronger version of the geode before it, found in nether
+        },
+         },
+        "red_geode":{
+            "crystal":200,
+            "weird":15,
+            "decay":5,
+            "molten":5,
+            // stronger version of the geode before it, found in nether
+        },
+        "red_geode_ore":{
+            "crystal":200,
+            "weird":15,
+            "decay":5,
+            "molten":5,
+            // stronger version of the geode before it, found in nether
+        },
+        "purple_geode":{
+            "crystal":200,
+            "weird":20,
+            "vital":1,
+            "earthen":120,
+            // end geode
+        },
+        "purple_geode_ore":{
+            "crystal":200,
+            "weird":20,
+            "vital":1,
+            "earthen":120,
+            // end geode
+        },
+        "platinum_ingot":{
+            "regal":80,
+            "metal":54,
+            
+            // stronger gold
+        },
+        "platinum_ore":{
+            "regal":80,
+            "metal":54,
+            
+            // stronger gold
+        },
+        "drake_backplate":{
+            "faunal":100,
+            "earthen":70,
+            
+            // equivalent of a leather for a tought mod
+        },
+        "raw_lowtier_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T1 H 0.5 S 0.25
+        },
+        "raw_common_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T2 H 1.5 S 0.5
+        },
+        "raw_apex_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T3 H 2.5 S 2.25
+        },
+        "raw_behemoth_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T4 H 3.5 S 4.75
+        },
+        // cooked variants (guite the high numbers)
+        "cooked_lowtier_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T1 H 1.5 S 2.25
+        },
+        "cooked_common_meat":{
+            "vital":2,
+            "faunal":20,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T2 H 4 S 3.5
+        },
+        "cooked_apex_meat":{
+            "vital":4,
+            "faunal":50,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T3 H 8 S 16
+        },
+        "cooked_behemoth_meat":{
+            "vital":15,
+            "faunal":100,
+            
+            // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T4 H 10 S 40 :-) not joking
+		},
+		
+		
+	}
+}
