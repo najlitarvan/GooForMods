@@ -1,118 +1,116 @@
 {
-	"prefix":"wyrmroost",
-	"prototypes":{
+	"prefix": "wyrmroost",
+	"prototypes": {
 	
 	},
-	"implementations":{
-          // Explicitly defined
-          // H1 one full unit of hunger S1 one full unit of saturation
-          "desert_wyrm":{
-            "vital":2,
-            "faunal":20,
-          // it's a living being in an inventory
-          },
-	  // it's a cooked being in an inventory H5 S10
-          "cooked_desertwyrm":{
-            "vital":1,
-            "faunal":20,    
-          },
-	  // it's a living being in an inventory (dragon with a golden nugget)
-          "coin_dragon":{
-            "vital":5,
-            "faunal":15,
-            "regal":8,
-            "metal":4,               
-          },
-	  //cheaper diamond like item with some magical property, overworld	
-          "blue_geode":{
-            "crystal":200,
-            "weird":15,   
-          },
-	  //cheaper diamond like item with some magical property, overworld
-          "blue_geode_ore":{
-	    "logic_forbidden":1,
-            "crystal":200,
-            "weird":15,
-          },
-	  // stronger version of the geode before it, found in nether
-          "red_geode":{
-            "crystal":200,
-            "weird":15,
-            "decay":5,
-            "molten":5,    
-          },
-          // stronger version of the geode before it, found in nether
-          "red_geode_ore":{
-	    "logic_forbidden":1,
-            "crystal":200,
-            "weird":15,
-            "decay":5,
-            "molten":5,
-          },
-	  // end geode	
-          "purple_geode":{
-            "crystal":200,
-            "weird":20,
-            "vital":1,
-            "earthen":120,
-          },
-	  // end geode
-          "purple_geode_ore":{
-	    "logic_forbidden":1,
-            "crystal":200,
-            "weird":20,
-            "vital":1,
-            "earthen":120,
-          },
-          // equivalent of a leather feom a tought mod
-          "drake_backplate":{
-            "faunal":100,
-            "earthen":70,    
-          },
-	   // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T1 H 0.5 S 0.25	
-          "raw_lowtier_meat":{
-            "vital":2,
-            "faunal":20,   
-          },
-          // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T2 H 1.5 S 0.5		
-          "raw_common_meat":{
-            "vital":2,
-            "faunal":20,    
-          },
-	  // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T3 H 2.5 S 2.25
-          "raw_apex_meat":{
-            "vital":2,
-            "faunal":20,
-          },
-	  // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T4 H 3.5 S 4.75	
-          "raw_behemoth_meat":{
-            "vital":2,
-            "faunal":20,    
-          },
-	  // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T1 H 1.5 S 2.25	
-          "cooked_lowtier_meat":{
-            "vital":2,
-            "faunal":20,
-          },
-	  // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T2 H 4 S 3.5	
-          "cooked_common_meat":{
-            "vital":2,
-            "faunal":20,    
-          },
-	  // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T3 H 8 S 16	
-          "cooked_apex_meat":{
-            "vital":4,
-            "faunal":50,    
-          },
-	   // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T4 H 10 S 40 :-) not joking	
-          "cooked_behemoth_meat":{
-            "vital":15,
-            "faunal":100,
-	  },
-          // added by prototype
-            "platinum_ingot":"platinum",
-	    "platinum_ore":"platinum_ore",
-		
-		
+	"implementations": 
+	{
+		// Explicitly defined
+		"desert_wyrm": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"cooked_desertwyrm": 
+		{
+			"vital": 1,
+			"faunal": 20
+		},
+		"coin_dragon": 
+		{
+			"vital": 5,
+			"faunal": 15,
+			"regal": 8,
+			"metal": 4
+		},
+		"blue_geode": 
+		{
+			"crystal": 200,
+			"weird": 15
+		},
+		"blue_geode_ore": 
+		{
+			"logic_forbidden": 1,
+			"crystal": 200,
+			"weird": 15
+		},
+		"red_geode": 
+		{
+			"crystal": 200,
+			"weird": 15,
+			"decay": 5,
+			"molten": 5
+		},
+		"red_geode_ore": 
+		{
+			"logic_forbidden": 1,
+			"crystal": 200,
+			"weird": 15,
+			"decay": 5,
+			"molten": 5
+		},
+		"purple_geode": 
+		{
+			"crystal": 200,
+			"weird": 20,
+			"vital": 1,
+			"earthen": 120
+		},
+		"purple_geode_ore": 
+		{
+			"logic_forbidden": 1,
+			"crystal": 200,
+			"weird": 20,
+			"vital": 1,
+			"earthen": 120
+		},
+		"drake_backplate": 
+		{
+			"faunal": 100,
+			"earthen": 70
+		},
+		"raw_lowtier_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"raw_common_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"raw_apex_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"raw_behemoth_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"cooked_lowtier_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"cooked_common_meat": 
+		{
+			"vital": 2,
+			"faunal": 20
+		},
+		"cooked_apex_meat": 
+		{
+			"vital": 4,
+			"faunal": 50
+		},
+		"cooked_behemoth_meat": 
+		{
+			"vital": 15,
+			"faunal": 100
+		},
+		// From prototypes
+		"platinum_ingot": "platinum",
+		"platinum_ore": "platinum_ore"
 	}
 }
