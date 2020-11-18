@@ -29,7 +29,7 @@
             //cheaper diamond like item with some magical property, overworld
         },
         "blue_geode_ore":{
-	"logic_forbidden":1
+	"logic_forbidden":1,
             "crystal":200,
             "weird":15,
             //cheaper diamond like item with some magical property, overworld
@@ -43,7 +43,7 @@
         },
          
         "red_geode_ore":{
-	"logic_forbidden":1
+	"logic_forbidden":1,
             "crystal":200,
             "weird":15,
             "decay":5,
@@ -58,25 +58,12 @@
             // end geode
         },
         "purple_geode_ore":{
-	"logic_forbidden":1
+	"logic_forbidden":1,
             "crystal":200,
             "weird":20,
             "vital":1,
             "earthen":120,
             // end geode
-        },
-        "platinum_ingot":{
-            "regal":80,
-            "metal":54,
-            
-            // stronger gold switch to prototype when given answer on discord(note to myself)
-        },
-        "platinum_ore":{
-	"logic_forbidden":1
-            "regal":80,
-            "metal":54,
-            
-            // stronger gold
         },
         "drake_backplate":{
             "faunal":100,
@@ -133,6 +120,9 @@
             
             // different tiers of meat higher the tier>lower in this menu and way higher values when cooked T4 H 10 S 40 :-) not joking
 		},
+            // added by prototype
+		"platinum_ingot":"platinum",
+		"platinum_ore":"platinum_ore",
 		
 		
 	}
