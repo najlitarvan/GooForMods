@@ -29,6 +29,7 @@
             //cheaper diamond like item with some magical property, overworld
         },
         "blue_geode_ore":{
+	"logic_forbidden":1
             "crystal":200,
             "weird":15,
             //cheaper diamond like item with some magical property, overworld
@@ -40,15 +41,9 @@
             "molten":5,
             // stronger version of the geode before it, found in nether
         },
-         },
-        "red_geode":{
-            "crystal":200,
-            "weird":15,
-            "decay":5,
-            "molten":5,
-            // stronger version of the geode before it, found in nether
-        },
+         
         "red_geode_ore":{
+	"logic_forbidden":1
             "crystal":200,
             "weird":15,
             "decay":5,
@@ -63,6 +58,7 @@
             // end geode
         },
         "purple_geode_ore":{
+	"logic_forbidden":1
             "crystal":200,
             "weird":20,
             "vital":1,
@@ -73,9 +69,10 @@
             "regal":80,
             "metal":54,
             
-            // stronger gold
+            // stronger gold switch to prototype when given answer on discord(note to myself)
         },
         "platinum_ore":{
+	"logic_forbidden":1
             "regal":80,
             "metal":54,
             
